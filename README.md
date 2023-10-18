@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
-## NAME: SRIVATSAN V
-## REFERENCE NO:23000970
+## NAME: ALAN ZION H
+## REFERENCE NO:23013715
 # AIM:
 
 Develop a webserver to display about top five web application development frameworks.
@@ -24,8 +24,8 @@ content ="""
 <head>
 </head>
 <body>
-<h1>SRIVATSAN V</h1>
-<h1>Internet of Things</h1>
+<h1>ALAN ZION H</h1>
+<h1>AIML</h1>
 </body>
 </html>
 """
