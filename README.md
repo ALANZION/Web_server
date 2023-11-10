@@ -76,7 +76,6 @@ httpd.serve_forever()
 
 ```
 # OUTPUT:
-![Alt text](webserver.jpg)
 ![webserver1](https://github.com/ALANZION/Web_server/assets/145743064/22984d20-d3b8-4b03-8339-a181c94eef83)
 
 
